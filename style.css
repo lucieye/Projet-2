@@ -1,26 +1,45 @@
 /* style.css */
 body{
-  background: rgb(245,245,245);
-  color: green;
+  background: ;
+  color: blue ;
   font-size: 25px;
-  font-family: Helvetica;
+  font-family: cursive;
 }
 h1{
-  font-family: Courier;
-  color: red;
+  font-family: notosansjp;
+  color: pink ;
   font-weight: lighter;
   font-size: 10px;
 }
 h2 {
-  font-family: Courier;
+  font-family: notosansjp;
   color: pink;
   font-weight: lighter;
   font-size: 8px;
 }
 a {
-  color: yellow;
+  color: red;
 }
 a:hover {
   text-decoration: none;
   color: purple;
+}
+p {
+  font-family: notosansjp
+
+}
+
+.blue-title {
+  color: purple;
+  font-size: 30px;
+  font-family: notosansjp;
+
+}
+
+
+#baseline p{ 
+color: grey;
+font-size: 50px;
+ }
+
 }
